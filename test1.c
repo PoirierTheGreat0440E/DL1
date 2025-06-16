@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+// AIE AIE AIE
+
 #define TAILLE_CARTE 10
 enum Directions { Nord=1 , Sud , Ouest , Est };
 
